@@ -4,11 +4,11 @@ alert (a);
 
 //задание 2
 let date = prompt ('год выпуска первого iPhone');
-alert (date);
+alert (`год выпуска первого iPhone ${date}`)
 
 //задание 3
-let name = prompt ('имя создателя языка JavaScript');
-alert (name);
+let nameAvtor = prompt ('имя создателя языка JavaScript');
+alert (`имя создателя языка JavaScript ${nameAvtor}`);
 
 //задание 4
 let b = 10;
@@ -63,3 +63,5 @@ alert (user[info]);
 //задание 10
 let userName = prompt('Ваше имя?');
 alert ('Привет,' + userName + '!');
+
+alert (`Привет, ${userName}!`)
