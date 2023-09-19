@@ -50,7 +50,7 @@
     margin-top: 32px;
 }
 
-.top_input {
+.top_button {
     margin-left: 120px;
     margin-right: 1086px;
     margin-top: 44px;
@@ -93,10 +93,12 @@
     height: 300px;
     flex-shrink: 0;
     border-radius: 16px;
-    
+    padding-left: 32px;
+    padding-bottom: 32px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
+    
     flex-shrink: 0;
     color: #FFF;
     font-family: Montserrat;
@@ -113,10 +115,11 @@
     flex-shrink: 0;
     border-radius: 16px;
 
-    
+    padding-left: 32px;
+    padding-bottom: 32px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     flex-shrink: 0;
     color: #FFF;
     font-family: Montserrat;
@@ -133,10 +136,11 @@
     flex-shrink: 0;
     border-radius: 16px;
 
-    
+    padding-left: 32px;
+    padding-bottom: 32px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     flex-shrink: 0;
     color: #FFF;
     font-family: Montserrat;
