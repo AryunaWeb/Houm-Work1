@@ -88,7 +88,3 @@ switch (month) {
         console.log ('ввод не верный')    
         break;
 }
-
-
-
-<script src="script.js"></script>
