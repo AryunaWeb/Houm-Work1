@@ -4,7 +4,7 @@
         padding-left: 16px;
     }
 
-    .top {
+    .header {
         width: 100%;
         height: 735px;
         flex-shrink: 0;
@@ -17,7 +17,7 @@
         flex-direction: column;
     }
 
-    .top_title {
+    .header_title {
         display: flex;
         width: 343px;
         height: 77.436px;
@@ -26,24 +26,24 @@
         flex-shrink: 0;
         color: #FFF;
         text-align: center;
-        font-family: Montserrat;
+        
         font-size: 32px;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
     }
 
-    .top_text {
+    .header_text {
         width: 343px;
         color: #FFF;
         text-align: center;
-        font-family: Montserrat;
+        
         font-size: 14px;
         font-style: normal;
         font-weight: 300;
         line-height: 22px; /* 157.143% */
         color: #FFF;
-        font-family: Montserrat;
+    
         font-size: 14px;
         font-style: normal;
         font-weight: 700;
